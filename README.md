@@ -8,9 +8,9 @@ by Alex J. Gutman and Jordan Goldmeier.
 
 ## Sessions
 
-| Session | Chapters | Notes |
-|---|---|---|
-| 1 | Chapters 1 & 2 | [View Notes](sessions/session-01/notes.md) |
+| Session | Chapters | Notes | Slides |
+|---|---|---|---|
+| 1 | Chapters 1 & 2 | [View Notes](sessions/session-01/notes.md) | [View Slides](sessions/session-01/chapter1-2-slides.pdf) |
 
 ## Purpose
 
