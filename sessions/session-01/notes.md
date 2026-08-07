@@ -2,11 +2,17 @@
 
 ---
 book: "Becoming a Data Head"
+
 session: 1
+
 date: "8/6/2026"
+
 time: "10 pm"
+
 presenter: "Shayan Najafian"
+
 chapters: "1 and 2"
+
 participants:
   - "Arman Ebrahimi"
   - "Micheal Zamanian"
