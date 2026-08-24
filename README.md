@@ -12,6 +12,7 @@ by Alex J. Gutman and Jordan Goldmeier.
 |---|---|---|---|
 | 1 | Chapters 1 & 2 | [View Notes](sessions/session-01/notes.md) | [View Slides](sessions/session-01/chapter1-2-slides.pdf) |
 | 2 | Chapters 3 & 4 | [View Notes](sessions/session-02/notes.md) | [View Slides](sessions/session-02/chapter3-4-slides.pdf) |
+| 3 | Chapter 5 | [View Notes](sessions/session-03/notes.md) | [View Slides](sessions/session-03/chapter5-slides.pdf) |
 
 ## Purpose
 
