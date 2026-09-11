@@ -16,6 +16,7 @@ by Alex J. Gutman and Jordan Goldmeier.
 | 4 | Chapter 6 | [View Notes](sessions/session-04/notes.md) | [View Slides](sessions/session-04/chapter6-slides.pdf) |
 | 5 | Chapter 7 | [View Notes](sessions/session-05/notes.md) | [View Slides](sessions/session-05/chapter7-slides.pdf) |
 | 6 | Chapters 8 & 9 | [View Notes](sessions/session-06/notes.md) | [View Slides](sessions/session-06/chapter8-9-slides.pdf) |
+| 7 | Chapters 10 & 11 | [View Notes](sessions/session-07/notes.md) | [View Slides](sessions/session-07/chapter10-11-slides.pdf) |
 
 ## Purpose
 
