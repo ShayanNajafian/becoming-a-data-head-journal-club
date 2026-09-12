@@ -2,7 +2,7 @@ book: "Becoming a Data Head"
 
 session: 7
 
-date: "9/11/2026"
+date: "9/10/2026"
 
 time: "10 pm"
 
