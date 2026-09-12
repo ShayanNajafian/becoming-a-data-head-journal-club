@@ -14,7 +14,7 @@ chapters: "10 and 11"
 
 ## Participants
 
-- Alireza Rn
+- Alireza Ranjbar
 - Arman Ebrahimi
 - Michael Zamanian
 - Rosita Jamalzade
